@@ -316,6 +316,7 @@ map <leader>sp [s
 map <leader>sa zg
 map <leader>s? z=
 
+set spelllang =en_us,de_de
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Misc
